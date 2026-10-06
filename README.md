@@ -17,7 +17,7 @@ Ouvrir http://localhost:8080. Sous Windows, `py -m http.server 8080 --bind 127.0
 - `index.html` : sections, formulaires et boîte de dialogue native.
 - `css/styles.css` : palette, responsive, splash et réduction des animations.
 - `js/app.js` : navigation mobile, onglets accessibles, validation et récapitulatif de recherche, présentations VIP, newsletter de démonstration.
-- `assets/mark.svg` : symbole graphique original proposé, pas un logo officiel fourni.
+- `assets/diana-logo.jpg` : logo fourni par le client, intégré sans modification dans l’en-tête, le splash, le footer et le favicon. Les marges sont masquées en CSS.
 - `assets/hero.webp` : visuel généré, compressé localement.
 - `assets/dubai.svg`, `assets/zanzibar.svg` : illustrations graphiques originales, non photographiques.
 - `scripts/check.py` : contrôle structurel des fichiers, ancres et assets.
